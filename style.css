@@ -70,12 +70,14 @@ html, body {
 h1 {
   padding: 20px;
   font-size: 55px;
+  color: #0059a0;
 }
 
 p {
   padding-left: 20px;
   padding-right: 20px;
   font-size: 40px;
+  color: #0059a0;
 }
 
 @media (max-width: 600px) {
