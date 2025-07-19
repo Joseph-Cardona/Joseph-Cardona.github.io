@@ -46,7 +46,7 @@ html {
   background-color: #f9e4bc;
   height: 100%;
   font-family: "Titan One";
-  text-shadow: 1px 1px 0 rgba(0, 0, 0, 1);
+  text-shadow: 1px 1px 0 rgba(0, 0, 0, 0.1);
 }
 a {
   color: #0059a0;
